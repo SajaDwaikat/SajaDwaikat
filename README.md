@@ -19,7 +19,7 @@ I enjoy combining my love for technology with my creative talents, whether it's 
 
 ### 📫 Let's Connect!  
 - **GitHub**: [SajaDwaikat](https://github.com/SajaDwaikat)  
-- **Email**: (sajamohamadd@gmail.com)  
+- **Email**: sajamohamadd@gmail.com
 
 
 

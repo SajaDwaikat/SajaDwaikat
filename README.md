@@ -9,7 +9,7 @@ I'm a **Computer Science student (CAP)** in the Faculty of Engineering at An-Naj
 - **Soft Skills**: Public speaking, teamwork, attention to detail, and creative problem-solving.  
 - **Other Interests**: Horse riding, writing, and taking care of animals.  
 
-### 🌟 Hobbies & Passions  
+### 🌟 Hobbies
 I enjoy combining my love for technology with my creative talents, whether it's building interactive websites or crafting compelling stories.
 
 ### 🛠️ Notable Projects  

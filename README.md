@@ -1,5 +1,5 @@
-👋 Hi, I'm Saja Dwaikat!
-💻 About Me
+<h2>👋 Hi, I'm Saja Dwaikat!</h2>
+<p></p>💻 About Me</p><br>
 I'm a Computer Science student in the Faculty of Engineering at An-Najah University, currently in my second year. Passionate about coding, database design, and web development, I strive to create efficient and user-friendly solutions. My projects often focus on integrating functionality with aesthetic appeal.
 
 🚀 Skills & Talents

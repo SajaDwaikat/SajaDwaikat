@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Saja Dwaikat!
 
 ### 💻 About Me  
-I'm a **Computer Science student (CAP)** in the Faculty of Engineering at An-Najah University, currently in my second year. Passionate about coding, database design, and web development, I strive to create efficient and user-friendly solutions. My projects often focus on integrating functionality with aesthetic appeal.
+I'm a **Computer Science student (CAP)** in the Faculty of Engineering at An-Najah University, currently in my third year. Passionate about coding, database design, and web development, I strive to create efficient and user-friendly solutions. My projects often focus on integrating functionality with aesthetic appeal.
 
 ### 🚀 Skills & Talents  
 - **Programming Languages**: C++, Python, JavaScript, HTML, CSS, React.  
